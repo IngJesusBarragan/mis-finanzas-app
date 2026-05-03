@@ -1,2 +1,4 @@
 pandas
 openpyxl
+
+*El excel y el script no deben estar abierto al mismo tiempo para que la interfaz gráfica pueda funcionar adecuadamente.
